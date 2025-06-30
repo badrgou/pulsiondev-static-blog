@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pulsiondev</title>
+    <link href="https://badrgou.github.io/pulsiondev-static-blog/feed.xml" rel="self" />
+    <link href="https://badrgou.github.io/pulsiondev-static-blog" />
+    <updated>1970-01-01T00:00:00+00:00</updated>
+    <author>
+        <name>Badr Eddine GOUMIH</name>
+    </author>
+    <id>https://badrgou.github.io/pulsiondev-static-blog</id>
+
+</feed>

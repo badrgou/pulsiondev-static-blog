@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pulsiondev",
+    "description": "",
+    "home_page_url": "https://badrgou.github.io/pulsiondev-static-blog",
+    "feed_url": "https://badrgou.github.io/pulsiondev-static-blog/feed.json",
+    "user_comment": "",
+    "icon": "https://badrgou.github.io/pulsiondev-static-blog/media/website/PulsionDev.webp",
+    "author": {
+        "name": "Badr Eddine GOUMIH"
+    },
+    "items": [
+    ]
+}
